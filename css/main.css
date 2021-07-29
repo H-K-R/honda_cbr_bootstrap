@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+
+/* main section style */
+.bg_darkBlue {
+  background-color: #264653;
+}
+
+.btn_orange {
+  background-color: #e76f51;
+  color: white;
+}
+
+.banner_section {
+  min-height: 90vh;
+}
+.banner_section h1 {
+  font-size: 3rem;
+}
+
+.banner_section p,
+h1 {
+  color: white;
+}
+
+/* featured section style */
+.featured_heading {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.bottom_text {
+  color: #e76f51;
+  padding-bottom: 5px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.dark_img {
+  filter: grayscale(1);
+}
+
+/* Latest News style */
+.latest-text {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+/* Happy Clients Section Style */
+.clients-details {
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+
+.clients-details:hover {
+  background: #007bff;
+  color: white;
+}
+
+/* frequently asked */
+
+.accordion-body {
+  font-size: 16px;
+}
+
+/* Subscribe form style */
+.sub-form {
+  width: 100%;
+  padding: 3% 2%;
+  border: none;
+  border-radius: 5px;
+}
+
+.txt-blue {
+  color: #23a6f0;
+}
+
+.txt-orange {
+  color: #e76f51;
+}
